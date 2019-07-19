@@ -15,5 +15,5 @@ A web-app to store & get notes.
 
 * For any additional documentation, You are welcome to submit an issue or ping me.
 
-## Live Demo 
+## [live Demo](https://notesgo.pythonanywhere.com/)
 * Currently there are only notes for sem 3 and 4. 
