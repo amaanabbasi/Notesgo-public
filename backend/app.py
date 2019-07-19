@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, send_from_directory, request, flash, url_for
+from flask import Flask, render_template, redirect, send_from_directory, request, flash, url_for,session
 from flask_mail import Mail, Message
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
@@ -7,7 +7,7 @@ import os
 import urllib
 import re
 from forms import AddNoteForm
-import credentials
+
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'storage'
