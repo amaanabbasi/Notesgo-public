@@ -1,6 +1,8 @@
 # NotesGo [live](https://notesgo.pythonanywhere.com/)
 A web-app to store & get notes.
 
+![notesgo](https://user-images.githubusercontent.com/30196830/61546052-65093880-aa66-11e9-98f5-9cc215eec718.png)
+
 ## Installation
 * pip install -r requirements.txt
 * Add yout email and password in the app.py file.
