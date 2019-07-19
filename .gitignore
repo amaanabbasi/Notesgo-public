@@ -1,0 +1,8 @@
+front-end
+credentials.py
+*.pyc
+*.db
+.vscode
+__pycache__
+myenv
+
